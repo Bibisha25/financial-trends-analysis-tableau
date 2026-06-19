@@ -25,7 +25,8 @@ Developed an interactive Tableau dashboard to analyze investment preferences, sa
 ## Files Included
 - Financial_Trends_Dashboard.twb
 - Financial_Trends.xlsx
-- Dashboard.png
+- Dashboard.png("C:\Users\bibis\OneDrive\Project_\Dashboard.png")
 
 ## Dashboard Preview
-![Dashboard Preview](Project_/Dashboard.png)
+![Dashboard Preview](Dashboard.png)
+
