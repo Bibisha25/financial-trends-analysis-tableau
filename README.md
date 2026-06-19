@@ -28,5 +28,4 @@ Developed an interactive Tableau dashboard to analyze investment preferences, sa
 - Dashboard.png
 
 ## Dashboard Preview
-
 ![Dashboard Preview](Project_/Dashboard.png)
